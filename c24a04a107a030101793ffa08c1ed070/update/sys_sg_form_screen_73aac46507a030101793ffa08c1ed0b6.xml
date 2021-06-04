@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">67aac46507a030101793ffa08c1ed03d</icon>
+        <item_view display_value="Incident Task Detail Screen Item View">ffaac46507a030101793ffa08c1ed0b4</item_view>
+        <name>Incident Task Form Screen</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-04 12:40:53</sys_created_on>
+        <sys_id>73aac46507a030101793ffa08c1ed0b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Task Form Screen</sys_name>
+        <sys_package display_value="backup_test" source="x_549198_backup_te">c24a04a107a030101793ffa08c1ed070</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="backup_test">c24a04a107a030101793ffa08c1ed070</sys_scope>
+        <sys_update_name>sys_sg_form_screen_73aac46507a030101793ffa08c1ed0b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-04 12:40:53</sys_updated_on>
+        <table>incident_task</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=73aac46507a030101793ffa08c1ed0b6"/>
+</record_update>

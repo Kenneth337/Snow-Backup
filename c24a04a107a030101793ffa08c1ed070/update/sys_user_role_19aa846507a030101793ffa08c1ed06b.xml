@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>backup_test</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix/>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-04 12:40:43</sys_created_on>
+        <sys_id>19aa846507a030101793ffa08c1ed06b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>backup_test</sys_name>
+        <sys_package display_value="backup_test" source="x_549198_backup_te">c24a04a107a030101793ffa08c1ed070</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="backup_test">c24a04a107a030101793ffa08c1ed070</sys_scope>
+        <sys_update_name>sys_user_role_19aa846507a030101793ffa08c1ed06b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-04 12:40:43</sys_updated_on>
+    </sys_user_role>
+</record_update>
